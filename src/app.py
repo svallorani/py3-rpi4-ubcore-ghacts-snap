@@ -6,7 +6,7 @@ import subprocess
 def main():
     "Run the application"
 
-    print ('hello! this is a snap.')    
+    print ('hello! this is my first snap.')    
 
 if __name__ == '__main__':
     main()
